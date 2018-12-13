@@ -2,7 +2,7 @@
 """
 Created on Sat Jun  4 19:48:18 2016
 
-@author: gjz5038
+@author: Amal
 """
 
 # causality.py
